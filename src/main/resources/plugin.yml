@@ -1,0 +1,7 @@
+name: SimpleChestLogging
+version: 1.0.0
+main: com.timnorthrop.simplechestlogging.SimpleChestLogging
+description: Logs player interactions with chests and other containers
+author: Tim Northrop
+website: https://timnorthrop.com
+api-version: '1.21.11'
